@@ -28,8 +28,9 @@ There was no need for modelling as only one table was supplied.
 </p>
 
 <h2> DATA VISULAIZATION </h2>
+
 The following visualization tools were used for their respective purposes:
-<br>
+<br><BR/>
 🛠️ Cards: To visualize the total sales, profit, as well as the quantity sold. <BR/><BR/>
 🛠️ Donut and Pie Chart: To visulize the profit by category, segmnent, and region. <BR/><BR/>
 🛠️ Clustered Bar Chart: To visualize the profit by sub-category.<BR/><BR/>
