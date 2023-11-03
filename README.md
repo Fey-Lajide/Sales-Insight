@@ -11,6 +11,23 @@ Lajide Books and Stores called for a data analyst and I was so happy to answer. 
 The data supplied by LAJIDE BOOKS AND STORES was clean upon submission. After careful and thorough perusal of the data, I discovered that the 9,994 records were clean and ready to be modeled.<br>
 <br></br>
 
-<p align = "left">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="1020" height="950"><BR/><BR/>
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="820" height="750"><BR/><BR/>
 </p>
+
+<h2> DATA MODELLING </h2>
+There was no need for modelling as only one table was supplied.
+<br><br>
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/710d3384-2f00-4f3c-9edc-2fe542261c51.png" width="820" height="750"><BR/><BR/>
+</p>
+
+<h2> DATA VISULAIZATION </h2>
+The following Visulization tools were used for their respective purposes. 
+<br>
+🛠️ Cards: To visualize the total sales, profit, as well as the quantity sold. 
+🛠️ Donut and Pie Chart: To visulize the profit by category, segmnent, and region.
+🛠️ Clustered Bar Chart: To visualize the profit by sub-category.
+🛠️ Line Chart: To visualize the profit by year and quarter.
+🛠️ Slicer: For filtering. 
+🛠️ Matrix: To visualize sales for each sub-category and region. 
