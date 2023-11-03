@@ -8,8 +8,9 @@ Lajide Books and Stores called for a data analyst and I was so happy to answer. 
 ⚡ DATA ANALYSIS <br>
 
 <H2> DATA PREPARATION </H2>
-The data supplied by LAJIDE BOOKS AND STORES was clean upon submission. After careful and thorough perusal of the data, I discovered that the 9,994 records was clean and ready to be modeled.<br>
+The data supplied by LAJIDE BOOKS AND STORES was clean upon submission. After careful and thorough perusal of the data, I discovered that the 9,994 records were clean and ready to be modeled.<br>
+<br></br>
 
 <p align = "left">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="1020" height="1050"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="1020" height="950"><BR/><BR/>
 </p>
