@@ -51,7 +51,7 @@ After telling a sales data story for LAJIDE BOOK AND STORES utilizing the proces
 📫 The highest profit was recorded in the West region<br/><br/>
 📫 Consumer had the highest profit was segment<br/><br/>
 📫 Technology had the highest profit for category<br/><br/>
-<br/><br/>
+<br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/c984958f-2d67-4d39-8407-3d221db6ea35png" width="1720" height="650"><BR/><BR/>
 </P>
