@@ -43,3 +43,21 @@ The following visualization tools were used for their respective purposes:
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="1720" height="650"><BR/><BR/>
 </P>
+
+
+<H2> DATA ANALYSIS </H2>
+After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
+
+<p align = "center">
+<img  src="https://github.com/Fe![DDD](https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/9c0cf7b6-2779-4aa8-b220-94f7f377afeapng" width="1720" height="650"><BR/><BR/>
+</P>
+
+<br/><br/>
+
+<p align = "center">
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2410f197-120e-4598-9ee8-8dee7aace542png" width="1720" height="650"><BR/><BR/>
+</P>
+
+<br/>
+
+
