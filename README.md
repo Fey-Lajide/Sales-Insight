@@ -45,7 +45,7 @@ The following visualization tools were used for their respective purposes:
 
 <H2> DATA ANALYSIS </H2>
 After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
-<br/>
+<br/><br/>
 📫 Copiers gave the highest profit in the profit for sub-category<br/><br/>
 📫 The highest sales was recorded in 2018<br/><br/>
 📫 The highest profit was recorded in the West region<br/><br/>
