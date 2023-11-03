@@ -22,7 +22,7 @@ The data supplied by LAJIDE BOOKS AND STORES was clean upon submission. After ca
 
 <h2> DATA MODELLING </h2>
 There was no need for modeling, as only one table was supplied.
-<br/>
+<br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/710d3384-2f00-4f3c-9edc-2fe542261c51.png" width="420" height="500"><BR/><BR/>
 </p>
@@ -46,11 +46,10 @@ The following visualization tools were used for their respective purposes:
 <H2> DATA ANALYSIS </H2>
 After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
 
-<br/>
+<br/><br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/c984958f-2d67-4d39-8407-3d221db6ea35png" width="1720" height="650"><BR/><BR/>
 </P>
-<br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2410f197-120e-4598-9ee8-8dee7aace542png" width="1720" height="650"><BR/><BR/>
 </P>
