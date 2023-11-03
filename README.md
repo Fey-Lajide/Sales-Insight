@@ -40,5 +40,5 @@ The following visualization tools were used for their respective purposes:
 <BR/><BR/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="820" height="750"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="1020" height="650"><BR/><BR/>
 </P>
