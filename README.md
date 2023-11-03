@@ -14,21 +14,20 @@ Lajide Books and Stores called for a data analyst and I was so happy to answer. 
 
 <H2> DATA PREPARATION </H2>
 The data supplied by LAJIDE BOOKS AND STORES was clean upon submission. After careful and thorough perusal of the data, I discovered that the 9,994 records were clean and ready to be modeled.<br>
-<br></br>
+<br/>
 
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/dc5396fc-467a-4464-9a7f-19a223789e5f.png" width="620" height="550"><BR/><BR/>
 </p>
 
 <h2> DATA MODELLING </h2>
-There was no need for modelling as only one table was supplied.
-<br><br>
+There was no need for modeling, as only one table was supplied.
+<br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/710d3384-2f00-4f3c-9edc-2fe542261c51.png" width="420" height="500"><BR/><BR/>
 </p>
 
 <h2> DATA VISULAIZATION </h2>
-
 The following visualization tools were used for their respective purposes:
 <br><BR/>
 🛠️ Cards: To visualize the total sales, profit, as well as the quantity sold. <BR/><BR/>
@@ -47,7 +46,7 @@ The following visualization tools were used for their respective purposes:
 <H2> DATA ANALYSIS </H2>
 After telling a sales data story for LAJIDE BOOK AND STORES utilizing the processes listed above. It was time to make sense of what the visuals were telling. Here are some insights deduced from the reports:
 
-<br/><br/>
+<br/>
 <p align = "center">
 <img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/c984958f-2d67-4d39-8407-3d221db6ea35png" width="1720" height="650"><BR/><BR/>
 </P>
