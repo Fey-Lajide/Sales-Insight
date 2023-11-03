@@ -1,7 +1,7 @@
 # Sales-Insight
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/af5431ce-b3e4-43ca-89bf-8a365f08ebc1.png" width="1320" height="650"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/af5431ce-b3e4-43ca-89bf-8a365f08ebc1.png" width="1720" height="650"><BR/><BR/>
 </p>
 
 Lajide Books and Stores called for a data analyst and I was so happy to answer.  With the use of visually appealing report, I was able to tell a sales story for the stakeholders of the industry, showing them their sales, profit amongst other KPIs between the year 2016 and 2020
@@ -40,5 +40,5 @@ The following visualization tools were used for their respective purposes:
 <BR/><BR/>
 
 <p align = "center">
-<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="1320" height="650"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Sales-Insight/assets/124121752/2e717c77-09dc-48b4-840a-cd1c57b6821e.png" width="1720" height="650"><BR/><BR/>
 </P>
